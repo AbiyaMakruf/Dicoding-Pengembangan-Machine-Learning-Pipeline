@@ -1,5 +1,5 @@
 # Penilaian Proyek
-Proyek ini berhasil mendapatkan bintang 3/5 pada submission dicoding course machine learning terapan.
+Proyek ini berhasil mendapatkan bintang 3/5 pada submission dicoding course Machine Learning Operations (MLOps).
 ![Penilaian Submission](https://raw.githubusercontent.com/AbiyaMakruf/Dicoding-PengembanganMachineLearningPipeline/main/image/nilai.png)
 
 Kriteria agar mendapatkan bintang tambahan yang tidak saya kerjakan adalah: 
