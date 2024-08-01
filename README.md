@@ -1,6 +1,6 @@
 # Penilaian Proyek
 Proyek ini berhasil mendapatkan bintang 3/5 pada submission dicoding course Machine Learning Operations (MLOps).
-![Penilaian Submission](https://raw.githubusercontent.com/AbiyaMakruf/Dicoding-PengembanganMachineLearningPipeline/main/image/nilai.png)
+<img src="https://raw.githubusercontent.com/AbiyaMakruf/Dicoding-PengembanganMachineLearningPipeline/main/image/nilai.png" width="500">
 
 Kriteria agar mendapatkan bintang tambahan yang tidak saya kerjakan adalah: 
 - Memanfaatkan komponen Tuner untuk menjalankan proses hyperparameter tuning secara otomatis.
